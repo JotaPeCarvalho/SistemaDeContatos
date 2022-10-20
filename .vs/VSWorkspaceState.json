@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MeuSiteEmMVC",
+    "\\MeuSiteEmMVC\\Controllers",
+    "\\MeuSiteEmMVC\\Models",
+    "\\MeuSiteEmMVC\\Repositorio",
+    "\\MeuSiteEmMVC\\Views",
+    "\\MeuSiteEmMVC\\Views\\Shared",
+    "\\MeuSiteEmMVC\\Views\\Shared\\Components",
+    "\\MeuSiteEmMVC\\Views\\Shared\\Components\\Menu",
+    "\\MeuSiteEmMVC\\Views\\Usuario"
+  ],
+  "SelectedNode": "\\MeuSiteEmMVC.sln",
+  "PreviewInSolutionExplorer": false
+}
