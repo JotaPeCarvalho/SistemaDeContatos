@@ -38,8 +38,14 @@ Here are the technologies used in this project.
 ![image](https://user-images.githubusercontent.com/91575096/197565382-6147b321-50f0-4283-aa97-4819c69ff731.png)
 
 ### 3 - Home Page
+- Home page that contains the nav bar of an administrator profile.
 
 ![image](https://user-images.githubusercontent.com/91575096/197565597-9d8bdb83-ef89-4dab-8772-c9c7f96bc29e.png)
+
+- Home page that contains the nav bar of an user profile.
+
+![image](https://user-images.githubusercontent.com/91575096/197570375-32071170-50b5-40a5-a397-831593e83315.png)
+
 
 ### 4 - Contact List
 
