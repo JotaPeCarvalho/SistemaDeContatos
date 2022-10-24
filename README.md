@@ -73,11 +73,22 @@ Here are the technologies used in this project.
 ![image](https://user-images.githubusercontent.com/91575096/197566752-a87b7677-c580-4b1c-b3f5-2db35f6ef475.png)
 
 ### 9 - User contacts modal
+- This is a modal made with JQuery and Ajax that shows how many contacts each user has and when clicking lists them.
 
 ![image](https://user-images.githubusercontent.com/91575096/197567266-f4393a29-b9c7-4938-99bb-6a68954a6781.png)
 
 
 ### 10 - Add user
+- Add User Form
+
+![image](https://user-images.githubusercontent.com/91575096/197566935-cee0eb45-734f-4759-8495-fc44b1a2242e.png)
+
+### 10 - Edit user
+- User edit form
+
+![image](https://user-images.githubusercontent.com/91575096/197573876-0bf02616-d177-40d8-b406-b8825420e9d8.png)
+### 10 - Delete user
+- Page to delete user
 
 ![image](https://user-images.githubusercontent.com/91575096/197566935-cee0eb45-734f-4759-8495-fc44b1a2242e.png)
 
