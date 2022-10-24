@@ -47,16 +47,22 @@ Here are the technologies used in this project.
 ![image](https://user-images.githubusercontent.com/91575096/197566339-2fbc7987-bbdd-4fe1-b4ee-57890f17191d.png)
 
 
+### 6 - Users List
 
-### 6 - Page with carousel
+![image](https://user-images.githubusercontent.com/91575096/197566752-a87b7677-c580-4b1c-b3f5-2db35f6ef475.png)
 
-![image](https://user-images.githubusercontent.com/91575096/166116186-cc73be99-ccf4-4c3f-aa1a-b80b6d325d45.png)
+### 7 - User contacts modal
 
-### 7 - Last page and footer
-
-![image](https://user-images.githubusercontent.com/91575096/166116189-abec2f53-468b-4ee7-88cc-f4ffcab13c2a.png)
+![image](https://user-images.githubusercontent.com/91575096/197567266-f4393a29-b9c7-4938-99bb-6a68954a6781.png)
 
 
+### 8 - Add user
+
+![image](https://user-images.githubusercontent.com/91575096/197566935-cee0eb45-734f-4759-8495-fc44b1a2242e.png)
+
+## 9 - Change user password
+
+![image](https://user-images.githubusercontent.com/91575096/197567449-c17b19db-6100-4d23-be9e-3e94c97c5b37.png)
 
 
 ## How to use
