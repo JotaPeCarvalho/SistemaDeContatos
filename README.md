@@ -1,5 +1,5 @@
 ## Contact System
-A contact system capable of adding contacts and users, having administrator and comum user profiles.
+A contact system in which each user registers their own contacts, the administrator profile is responsible for moderating access and users.
 
 
 
@@ -26,11 +26,14 @@ Here are the technologies used in this project.
 
 
 ### 1 - Login Page.
+- Page to login
+
 ![image](https://user-images.githubusercontent.com/91575096/197564915-0b4ed862-1c91-41b4-bd69-42e410f904ad.png)
 
 
 
 ### 2 - Password Reset
+- If the user has forgotten his password, it is possible to change it by receiving a new one via the registered email.
 
 ![image](https://user-images.githubusercontent.com/91575096/197565382-6147b321-50f0-4283-aa97-4819c69ff731.png)
 
@@ -67,7 +70,10 @@ Here are the technologies used in this project.
 
 ## How to use
 
-* Just scroll down and have fun
+
+It is necessary to have a user account, this user can register new accounts, delete and edit existing ones.
+If the user forgets his password, on the lgoin page it is possible to reset it through the registered email. If you want to change the password already logged in, just access the "Change Password" on the taskbar.
+If the account has the administrator profile, it can moderate users, being able to edit and delete them.
 
 
 
